@@ -25,12 +25,12 @@
 
   <!-- "Buchi" e dettagli disegnati in bianco sopra il corpo -->
   <!-- Slot superiore per numero linea (estetico) -->
-  <rect x="7" y="5" width="26" height="6" rx="3" fill="#E9E9E9"/>
+  <rect x="7" y="5" width="26" height="6" rx="3" fill="#000000"/>
   <!-- Parabrezza -->
-  <rect x="7" y="14" width="26" height="15" rx="3" fill="#E9E9E9"/>
+  <rect x="7" y="14" width="26" height="15" rx="3" fill="#000000"/>
   <!-- Fari -->
-  <circle cx="12" cy="33" r="4" fill="#E9E9E9"/>
-  <circle cx="28" cy="33" r="4" fill="#E9E9E9"/>
+  <circle cx="12" cy="33" r="4" fill="#000000"/>
+  <circle cx="28" cy="33" r="4" fill="#000000"/>
   
   <!-- Testo per la linea (dinamico, sia il numero che il colore) -->
   <text x="20"
