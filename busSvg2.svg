@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Capa_1"
+   viewBox="0 0 46.087 46.087"
+   xml:space="preserve"
+   sodipodi:docname="bus-svgrepo-com.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.68324193"
+   inkscape:cx="198.31921"
+   inkscape:cy="252.4728"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="439"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g1" />
+<rect
+   style="fill:#E0E0E0;stroke-width:0.00351413"
+   id="rect3"
+   width="17.170835"
+   height="5.1274023"
+   x="14.189788"
+   y="0.59620959" /><rect
+   style="fill:#FFFFCC;stroke-width:0.00351413"
+   id="rect1"
+   width="31.365837"
+   height="7.4620342"
+   x="7.0826087"
+   y="30.944254" /><rect
+   x="7.7678723"
+   y="5.5645423"
+   width="30.081211"
+   height="24.852255"
+   rx="0"
+   fill="#cce5ff"
+   id="rect2"
+   style="stroke-width:0.0576087"
+   ry="0.073720053" /><g
+   id="g1">
+	<path
+   d="M44.6,7.162h-3.379v11.625h1.351v5.338h-2.568V6.487C40.005,2.904,37.1,0,33.517,0H12.162   C8.58,0,5.675,2.904,5.675,6.487v17.3h-2.23v-5.678h1.419V6.487H1.486v11.622h1.419v6.22h2.77v12.705   c0,2.454,1.366,4.593,3.379,5.694v3.358h5.676V43.52h16.083v2.567h5.678v-3.294c2.086-1.076,3.513-3.251,3.513-5.76V24.664h3.109   v-5.878h1.487L44.6,7.162L44.6,7.162z M15.407,1.35h15.136v3.516H15.407V1.35z M17.028,36.762H8.649V32.98h8.379V36.762z    M37.301,36.762h-8.379V32.98h8.379V36.762z M37.301,24.598c0,0-1.622,5.137-14.596,5.137c-12.976,0-14.328-5.137-14.328-5.137   V6.756h28.924V24.598z"
+   id="path1"
+   fill="{COLOR}" /><text
+   x="22.603773"
+   y="18.70233"
+   font-family="Arial, sans-serif"
+   font-size="14"
+   font-weight="bold"
+   fill="{COLOR}"
+   text-anchor="middle"
+   dominant-baseline="middle"
+   id="text3"
+   style="stroke-width:0.0576087">{LINEA}</text>
+</g>
+</svg>
